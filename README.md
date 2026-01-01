@@ -1,1 +1,1 @@
-Currently learning big data analysis in HQU, China.
+~~Currently learning~~Graduated in big data analysis major in HQU, China.
